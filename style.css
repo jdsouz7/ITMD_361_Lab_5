@@ -34,5 +34,8 @@ img {
 }
 footer {
   text-align: center;
+}
+a {
+  font-family: 'Open Sans', sans-serif; 
   color: white;
 }
